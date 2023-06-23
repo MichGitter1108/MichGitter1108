@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @MichGitter1108
-- 👀 I’m interested in video games, music, netflix, friends
-- 🌱 I’m currently learning full stack web development
-- 📫 How to reach me: michalmi118@gmail.com
-
-<!---
-MichGitter1108/MichGitter1108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi there, I'm Michal. Welcome to my github profile!
+- 👀 I’m Looking for a Full stack web junior position
+- 🌱 I’m currently graduated full stack web development course
+- 📫 How to reach me:
+  * 📲 0547290758
+  * 📧 michalmi118@gmail.com
+  * 🟦 https://www.linkedin.com/in/michal-mirchevsky-588815228/
